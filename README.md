@@ -1,4 +1,4 @@
-#Pandas Sales Data Analysis Tutorial by Kaith Galli  
+# Pandas Sales Data Analysis Tutorial by Kaith Galli  
 
 This is a follow along tutorial via Youtube.com
 
