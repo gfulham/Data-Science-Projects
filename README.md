@@ -1,4 +1,4 @@
-# Sales Data Analysis Tutorial by Kaith Galli  
+# Electronic Store Sales Data Analysis 
 
 The purpose of this project was to replicate real world data science tasks.
 
@@ -16,4 +16,4 @@ This analysis answers questions like:
   6) Which product generates the most sales? Why?
 
 This is a follow along tutorial produced by Keith Galli
-The video can be fuond here. https://www.youtube.com/watch?v=eMOA1pPVUc4&t=7s
+The video can be found here. https://www.youtube.com/watch?v=eMOA1pPVUc4&t=7s
