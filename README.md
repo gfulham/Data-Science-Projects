@@ -1,11 +1,6 @@
 # Electronic Store Sales Data Analysis 
 
-The purpose of this project was to replicate real world data science tasks.
-
 This analysis looks into tech product sales across the US. 
-
-First the data is prepared for analysis by filling in and deleting missing values,
-as well as adding columns for analysis. 
 
 This analysis answers questions like:
   1) Which month is the best for sales?
@@ -15,5 +10,12 @@ This analysis answers questions like:
   5) What products are compliments of one another based on being sold together?
   6) Which product generates the most sales? Why?
 
-This is a follow along tutorial produced by Keith Galli
-The video can be found here. https://www.youtube.com/watch?v=eMOA1pPVUc4&t=7s
+**RESULTS**
+
+![](images/product-qualtity-sales-barchart.png)
+
+- Sales die at the start of the new year. Slowly grow untill April, where they slow down again untill they shoot back up in Oct, Nov, Dec.
+- The cities with the most sales are San Francisco CA and Los Angeles CA. 
+- Sales spike mid day and afternoon.
+- Phones and their asscessories are the most common products purchased together. 
+- Laptops seem to be the most price insensitive product.
