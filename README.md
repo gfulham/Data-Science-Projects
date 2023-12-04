@@ -1,4 +1,4 @@
-# Electronic Store Sales Data Analysis 
+# Electronic Store Sales Exploratory Data Analysis in Python 
 
 This analysis looks into tech product sales across the US. 
 
